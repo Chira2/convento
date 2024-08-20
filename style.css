@@ -1,0 +1,41 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #9be4fd;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 20px;
+}
+.imagen img{
+  height: 300px;
+}
+.titulo h1{
+  font-size: 50px;
+  text-align: center;
+  color: #0c299d;
+  font-family: 'forte';
+}
+.enlace a{
+  font-size: 20px;
+  text-align: center;
+  color: #0042aa;
+  font-family: 'Cascadia Code';
+}
+.subtitulo{
+  text-align: left;
+  color:#cd8b18 ;
+  font-family: 'Cascadia Code';
+}
+.descripción{
+color:#cd8b18 ;
+font-family:'forte' ;
+}
+.descripción img{
+  height: 300px;
+}
